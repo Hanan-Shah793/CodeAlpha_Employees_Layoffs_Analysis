@@ -26,7 +26,7 @@ The objective of this project is to analyze global employee layoff data using Ex
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- Power BI (or Tableau, if used)
+- Power BI 
 
 ## 📊 Analysis Performed
 
